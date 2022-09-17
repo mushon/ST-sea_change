@@ -1,5 +1,5 @@
 export const AIRTABLE_BASE = 'appp3Khl8aGLWR2xx';
-export const AIRTABLE_API_KEY = 'keysbVnYZk16tqIT0';
+export const AIRTABLE_API_KEY = 'key7jIbxK4zBiOYDr';
 export const AIRTABLE_DETAILS_FORM = 'https://airtable.com/embed/shrQcROm2BssWQbFv';
 
 export const MAPBOX_STYLE = 'mapbox://styles/atlasmedliq/ckiodibg82x1k17tcof8e9pmd';
