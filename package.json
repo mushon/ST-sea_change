@@ -6,6 +6,7 @@
     "start": "ng serve",
     "build": "ng build",
     "prod": "ng build -c production --base-href=/ST-sea_change/",
+    "prod2": "ng build -c production --base-href=/speculative-tourism-sea-change/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
